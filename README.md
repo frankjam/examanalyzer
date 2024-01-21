@@ -1,6 +1,6 @@
 ## View exam statistics 
 
-Simple project for exam analysing
+Simple project(prototype) for exam analysing
 
 Features:
 - How many got distinction credit, pass, supplementary, retake 
