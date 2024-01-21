@@ -1,3 +1,2 @@
 examsummary
-data/processed/*
-data/unprocessed/*
+.gitignore
